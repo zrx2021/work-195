@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f828c155-8188-434d-9dc1-27bf337af0d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/admin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/day01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo01static修饰成员变量/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo01static修饰成员变量/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo01static修饰成员变量/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo01static修饰成员变量/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo02static修饰成员方法/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo02static修饰成员方法/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo02static修饰成员方法/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo02static修饰成员方法/VerifyCodeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo03static注意事项/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo03static注意事项/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo05饿汉式单例/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo05饿汉式单例/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo06懒汉式单例/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo06懒汉式单例/VideoPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo07继承/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo07继承/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo07继承/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo07继承/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo08继承案例/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo08继承案例/Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo08继承案例/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo08继承案例/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo09权限修饰符01/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo09权限修饰符01/Other.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo10权限修饰符02/Other2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo10权限修饰符02/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo11类的单继承/Demo011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo12方法重写/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo12方法重写/NewPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo12方法重写/OldPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo14子类构造器的特点/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo14子类构造器的特点/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo14子类构造器的特点/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo15按照JavaBean标准类/demo8继承案例/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo15按照JavaBean标准类/demo8继承案例/Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo15按照JavaBean标准类/demo8继承案例/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo15按照JavaBean标准类/demo8继承案例/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo16调用本类构造器/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/demo16调用本类构造器/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/extendhomework1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/extendhomework1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/extendhomework1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/extendhomework1/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/extendhomework2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/extendhomework2/ElectricBicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/extendhomework2/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/extendhomework2/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/extendhomework3/Chef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/extendhomework3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/extendhomework3/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/extendhomework3/Waiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/extendhomework4/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework1/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework1/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework2/MyArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework2/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework3/Coder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework3/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework3/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework4/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework4/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework4/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework4/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework5/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework5/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework5/Digital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework5/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01/src/xuan/homework5/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/day02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo01常量/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo01常量/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo02多态/Demo021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo02多态/Demo022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo02多态/Demo023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo02多态/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo02多态/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo02多态/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo03抽象方法和抽象类/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo03抽象方法和抽象类/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo03抽象方法和抽象类/Demo031.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo03抽象方法和抽象类/Demo032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo03抽象方法和抽象类/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo04抽象类和抽象方法注意事项/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo05模板方法设计模式/Cxk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo05模板方法设计模式/DaoLang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo05模板方法设计模式/Demo051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo05模板方法设计模式/Singer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo06接口介绍/ChinesePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo06接口介绍/Dance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo06接口介绍/Demo061.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo06接口介绍/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo06接口综合案例/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo06接口综合案例/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo06接口综合案例/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo06接口综合案例/USB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo08接口新增的3种方法/Demo08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo08接口新增的3种方法/KeyBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo08接口新增的3种方法/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo08接口新增的3种方法/USB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo09接口注意事项/Demo09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo10扩展abstract关键字/Demo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo11成员内部类/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo11成员内部类/demo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo12静态内部类/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo12静态内部类/Demo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demo13局部内部类/Demo13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demotest1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demotest1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demotest2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demotest2/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demotest2/Student2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/demotest2/Student3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/extendhomework1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/extendhomework1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/extendhomework1/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/extendhomework1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/extendhomework2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/extendhomework2/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/extendhomework2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/extendhomework2/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/extendhomework3/Draw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/extendhomework3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/extendhomework3/JavaTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/extendhomework3/UITeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/extendhomework4/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework1/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework1/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework1/GoldenCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework1/SilverCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework2/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework2/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework2/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework3/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework4/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework4/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework4/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02/src/xuan/homework4/USB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work-195.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2gAxwaI9NTa0ztkCZMNT9SvLfjN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "F:/java/work-195/day02/src/xuan",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java\work-195\day02\src\xuan" />
+      <recent name="F:\java\work-195\day01\src\xuan" />
+      <recent name="F:\java\work-195\day01\src\xuan\demo15按照JavaBean标准类" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.demo11">
+    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuan.homework4.Computer" />
+      <module name="day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuan.homework4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuan.extendhomework1.Test" />
+      <module name="day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuan.extendhomework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuan.extendhomework2.Test1" />
+      <module name="day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuan.extendhomework2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuan.demo11成员内部类.demo11" />
+      <module name="day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuan.demo11成员内部类.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xuan.homework2.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuan.homework2.Demo1" />
+      <module name="day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuan.homework2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.demo11" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Computer" />
+        <item itemvalue="Application.xuan.homework2.Demo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f828c155-8188-434d-9dc1-27bf337af0d0" name="Changes" comment="" />
+      <created>1715154424419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715154424419</updated>
+      <workItem from="1715154425712" duration="4902000" />
+      <workItem from="1715216110526" duration="20773000" />
+      <workItem from="1715301596464" duration="22653000" />
+      <workItem from="1715388332936" duration="4963000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day01/src/xuan/homework2/MyArrays.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
