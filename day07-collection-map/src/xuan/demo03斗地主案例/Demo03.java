@@ -2,6 +2,7 @@ package xuan.demo03斗地主案例;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 
 public class Demo03 {
     public static void main(String[] args) {
@@ -12,8 +13,8 @@ public class Demo03 {
         // 数字数组
         String[] numbers = new String[] {"2", "A", "K", "Q", "J", "10", "9", "8", "7", "6", "5", "4", "3"};
 
-        list.add(new Poker("", ""));
         list.add(new Poker("", "小王"));
+        list.add(new Poker("", "大王"));
 
         for (String number : numbers) {
             for (String color : colors) {
@@ -21,7 +22,10 @@ public class Demo03 {
             }
         }
 
+        System.out.println("创建后：" + list);
+
         Collections.shuffle(list);
+        System.out.println("打乱后：" + list);
 
         ArrayList<Poker> player1 = new ArrayList<>();
         ArrayList<Poker> player2 = new ArrayList<>();
@@ -41,7 +45,13 @@ public class Demo03 {
             }
         }
 
-        Collections.sort(player1);
+        Collections.sort(player1, (o1, o2) -> {
+            int compare = o1.getNumber().compareToIgnoreCase(o2.getNumber());
+            if (compare == 0) {
+                compare = o1.getNumber().compareToIgnoreCase(o2.getNumber());
+            }
+            return compare;
+        });
 
         System.out.println("玩家一的牌：" + player1);
         System.out.println("玩家二的牌：" + player2);
