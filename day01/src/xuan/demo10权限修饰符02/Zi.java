@@ -1,6 +1,6 @@
 package xuan.demo10权限修饰符02;
 
-import com.itheima.demo09权限修饰符01.Fu;
+import xuan.demo09权限修饰符01.Fu;
 
 public class Zi extends Fu {
     // 不同包的子类

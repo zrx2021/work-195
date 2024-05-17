@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Other/Other.iml" filepath="$PROJECT_DIR$/Other/Other.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03/day03.iml" filepath="$PROJECT_DIR$/day03/day03.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04-api/day04-api.iml" filepath="$PROJECT_DIR$/day04-api/day04-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05-api/day05-api.iml" filepath="$PROJECT_DIR$/day05-api/day05-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06-collection/day06-collection.iml" filepath="$PROJECT_DIR$/day06-collection/day06-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07-collection-map/day07-collection-map.iml" filepath="$PROJECT_DIR$/day07-collection-map/day07-collection-map.iml" />
       <module fileurl="file://$PROJECT_DIR$/work-195.iml" filepath="$PROJECT_DIR$/work-195.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03/work-day03/work-day03.iml" filepath="$PROJECT_DIR$/day03/work-day03/work-day03.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04-api/work-day04/work-day04.iml" filepath="$PROJECT_DIR$/day04-api/work-day04/work-day04.iml" />
