@@ -5,7 +5,15 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class Demo041 {
+/*
+目标:学习Map常用方法
+    Map是一个双列集合, 主要做增删改查的操作
+        添加数据
+        删除数据
+        修改数据
+        获取数据
+ */
+public class Demo04 {
     public static void main(String[] args) {
         // 0.创建Map集合
         Map<String, String> map = new HashMap<>();

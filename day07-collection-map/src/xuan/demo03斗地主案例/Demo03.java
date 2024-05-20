@@ -32,6 +32,11 @@ public class Demo03 {
         ArrayList<Poker> player3 = new ArrayList<>();
         ArrayList<Poker> covered = new ArrayList<>();
 
+        // pokerList = [♦3, ♥J, ♣6, ♦Q, ♠8, ♥5, ♠Q, ♠6, ♥6, ♥2, ♣4, ♥8, ♠4, 大王, ♠7, ♣K, ♠K]
+        //         索引  0   1    2   3   4   5   6   7   8   9             ...     51  52  53
+        // 玩家1: 0, 3, 6     索引 % 3 == 0
+        // 玩家2: 1, 4, 7     索引 % 3 == 1
+        // 玩家3: 2, 5, 8     索引 % 3 == 2
         for (int i = 0; i < list.size(); i++) {
             Poker poker = list.get(i);
             if (i >= 51) {

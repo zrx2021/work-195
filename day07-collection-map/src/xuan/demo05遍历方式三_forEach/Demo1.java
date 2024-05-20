@@ -13,6 +13,16 @@ public class Demo1 {
         map.put("黄晓明", "杨颖");
         map.put("老干爹", "老干妈");
 
+        // 使用map的forEach方式遍历
+        // map.forEach(new BiConsumer<String, String>() {
+        //     @Override
+        //     public void accept(String k, String v) {
+        //         System.out.println(k + " == " + v);
+        //     }
+        // });
+
+        // Lambda表达式
+        // 需要记住, Map遍历的最佳方案
         map.forEach((k, v) -> {
             System.out.println("Key：" + k + "，Value：" + v);
         });

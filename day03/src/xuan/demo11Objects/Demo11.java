@@ -2,6 +2,16 @@ package xuan.demo11Objects;
 
 import java.util.Objects;
 
+/*
+目标: 学习Objects工具类常用方法
+
+public static boolean equals(Object a, Object b): 判断如果a == null 返回false, 如果a != null, 就执行 a.equals(b), 不会出现空指针, 更严谨
+
+Objects类源码
+   public static boolean equals(Object a, Object b) {
+        return (a == b) || (a != null && a.equals(b));
+   }
+ */
 public class Demo11 {
     public static void main(String[] args) {
         // String s1 = new String("广州黑马");

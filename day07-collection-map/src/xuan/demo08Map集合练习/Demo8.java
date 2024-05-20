@@ -12,9 +12,9 @@ import java.util.List;
     最终学生选择结果为[玉龙雪山、泰国、泰国、泰国、大理、大理、泰山、漓江]，请统计出最终哪个景点想去的人数最多。
     效果: {泰国=3, 漓江=1, 大理=2, 玉龙雪山=1, 泰山=1}
  */
-
-public class Demo1 {
+public class Demo8 {
     public static void main(String[] args) {
+        // 1.把学生选择的景点保存到List集合中
         List<String> list = new ArrayList<>();
         Collections.addAll(list, "玉龙雪山", "泰国", "泰国", "泰国", "大理", "大理", "泰山", "漓江");
 
