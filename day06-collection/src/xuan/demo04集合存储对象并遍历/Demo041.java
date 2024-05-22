@@ -42,5 +42,12 @@ public class Demo041 {
             System.out.println("导演: " + movie.getDirector());
             System.out.println("----------------");
         }
+
+        System.out.println("----------------foreach遍历----------------");
+        movies.forEach(movie -> {
+            System.out.println("电影名称: " + movie.getName());
+            System.out.println("评分: " + movie.getScore());
+            System.out.println("导演: " + movie.getDirector());
+        });
     }
 }
