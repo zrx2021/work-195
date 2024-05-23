@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="dom4j-2.1.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day11-file-log-thread/lib/dom4j-2.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day11-file-log-thread/lib/logback-classic-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day11-file-log-thread/lib/logback-core-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day11-file-log-thread/lib/slf4j-api-1.7.26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<persons>
+    <person color="黄色" country="中国">
+        <name>张三</name>
+        <age>18</age>
+        <height>177</height>
+        <note>
+            他在&lt;&lt;&lt;&lt;&lt;18岁的时候就很出名了&gt;&gt;&gt;&gt;&gt;
+            <![CDATA[
+                他在<<<<<<<<<<<<<18岁就很出名了>>>>>>>>>
+            ]]>
+        </note>
+    </person>
+
+    <person>
+        <name color="red" country="中国">李四</name>
+        <age>20</age>
+        <height>166</height>
+    </person>
+</persons>

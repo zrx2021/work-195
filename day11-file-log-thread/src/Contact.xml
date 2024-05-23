@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<contactList>
+    <contact id="1" vip="true">
+        <name>迪丽热巴</name>
+        <gender>女</gender>
+        <email>dili@itcast.cn</email>
+    </contact>
+    <contact id="2" vip="false">
+        <name>古力娜扎</name>
+        <gender id="1000">男</gender>
+        <email>guli@itcast.cn</email>
+    </contact>
+    <contact id="3">
+        <name>马尔扎哈</name>
+        <gender>男</gender>
+        <email>maer@itcast.cn</email>
+    </contact>
+</contactList>

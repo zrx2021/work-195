@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book category="Java">
+        <name>Java入门到精通</name>
+        <author>高司令</author>
+        <year>2005</year>
+        <price>29.99</price>
+    </book>
+    <book category="PHP">
+        <name>PHP入门到放弃</name>
+        <author>拉斯马斯·勒德尔夫</author>
+        <year>2013</year>
+        <price>8.88</price>
+    </book>
+</bookstore>
