@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<order>
+    <id>123</id>
+    <date>2017-01-01</date>
+    <receiver>
+        <name>张三胖</name>
+        <address>北京海淀区五道口18号</address>
+    </receiver>
+    <remarks>
+        <![CDATA[
+              我要买的电脑配置是：CPU：i7，内存不能 < 8G，硬盘：1T，显卡：GTX960M，显示器：15.6寸。
+              走顺丰快递 && 请尽快发货，谢谢！
+        ]]>
+    </remarks>
+    <items>
+        <item>
+            <name>华为手机</name>
+            <price>1999.0</price>
+            <quantity>2</quantity>
+        </item>
+        <item>
+            <name>金士顿U盘</name>
+            <price>30.0</price>
+            <quantity>3</quantity>
+        </item>
+    </items>
+</order>

@@ -4,51 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f828c155-8188-434d-9dc1-27bf337af0d0" name="Changes" comment="2024/05/22 缓冲流效率对比、转换流练习、对象流、Properties类、数据流、打印流、commons_io框架、字符流乱码问题">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/dom4j_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10-io/src/demo11扩展练习/Demo112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/day11-file-log-thread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/lib/dom4j-2.1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/lib/logback-classic-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/lib/logback-core-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/lib/slf4j-api-1.7.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/Contact.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo01xml解析/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo01xml解析/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo01xml解析/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo02xml解析并存储/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo02xml解析并存储/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo03xml保存/Demo031.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo03xml保存/Demo032.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo04日志技术/Demo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo05继承Thread类创建线程/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo05继承Thread类创建线程/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo06实现Runnable接口创建线程/Demo061.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo06实现Runnable接口创建线程/Demo062.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo06实现Runnable接口创建线程/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo07Callable加FutureTask实现多线程/Demo07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo07Callable加FutureTask实现多线程/MyCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo08操作线程名称_获取当前线程/Demo08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/demo08操作线程名称_获取当前线程/NamedThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/homework1/book.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/homework1/key.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/homework2/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/homework2/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/homework2/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/homework3/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/homework3/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/homework3/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/homework4/CopyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/homework4/CopyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/homework4/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/homework4/KeyCopyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/homework4/KeyCopyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/homework4/Test04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/homework5/LogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/xml_files/persons.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="f828c155-8188-434d-9dc1-27bf337af0d0" name="Changes" comment="2024/05/23 XML解析、使用dom4j框架，使用Logback框架、日志输出、输出等级设置、日志配置，多线程的三种创建方式">
+      <change afterPath="$PROJECT_DIR$/Other/src/xuan/api/simpledateformat/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/Arrays.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/beauty-copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/beauty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/ccc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/ccc1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/extendhomework4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/extendhomework6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/extendhomework9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/gbk-a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/number.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/ps.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/save.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/scanconsolearraytofile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/scanconsoletofile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/scanfiletoconsole.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/stus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/utf8-b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/homework/文件(夹)复制.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework1/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework10/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework11/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework12/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework12/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework13/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework14/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework15/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework16/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework17/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework17/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework18/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework19/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework2/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework3/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework4/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework5/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework6/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework6/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework7/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework8/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-io/src/extendhomework9/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/extendhomework1/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/extendhomework2/data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/extendhomework3/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11-file-log-thread/src/xuan/extendhomework3/order.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,35 +98,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/java/work-195/day11-file-log-thread/src/xuan&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;F:/work195/day11-特殊文件、日志技术/1-代码/day11-file-log-thread/src/com/itheima/demo07Callable加FutureTask实现多线程/MyCallable.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "F:/java/work-195/day10-io/homework",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "two.files.diff.last.used.file": "F:/work195/day11-特殊文件、日志技术/1-代码/day11-file-log-thread/src/com/itheima/demo07Callable加FutureTask实现多线程/MyCallable.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java\work-195\day10-io\homework" />
       <recent name="F:\java\work-195\day11-file-log-thread\src\xuan" />
       <recent name="F:\java\work-195\day11-file-log-thread\src\xuan\demo06实现Runnable接口创建线程" />
       <recent name="F:\java\work-195\day110-file-log-thread\src" />
       <recent name="F:\java\work-195\day110-file-log-thread\lib" />
-      <recent name="F:\java\work-195\day110-file-log-thread\src\xuan\demo01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\java\work-195\day110-file-log-thread\src" />
@@ -138,26 +142,13 @@
       <recent name="homework4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LogTest">
-    <configuration name="Demo062" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xuan.demo06实现Runnable接口创建线程.Demo062" />
-      <module name="day11-file-log-thread" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="xuan.demo06实现Runnable接口创建线程.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.extendhomework19.Demo1">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xuan.homework2.Demo1" />
-      <module name="day11-file-log-thread" />
+      <option name="MAIN_CLASS_NAME" value="extendhomework18.Demo1" />
+      <module name="day10-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xuan.homework2.*" />
+          <option name="PATTERN" value="extendhomework18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xuan.homework5.LogTest" />
-      <module name="day11-file-log-thread" />
+    <configuration name="extendhomework16.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extendhomework16.Demo1" />
+      <module name="day10-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xuan.homework5.*" />
+          <option name="PATTERN" value="extendhomework16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xuan.homework3.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xuan.homework3.Demo1" />
-      <module name="day11-file-log-thread" />
+    <configuration name="extendhomework17.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extendhomework17.Demo1" />
+      <module name="day10-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xuan.homework3.*" />
+          <option name="PATTERN" value="extendhomework17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +182,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xuan.homework4.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xuan.homework4.Demo1" />
-      <module name="day11-file-log-thread" />
+    <configuration name="extendhomework19.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extendhomework19.Demo1" />
+      <module name="day10-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xuan.homework4.*" />
+          <option name="PATTERN" value="extendhomework19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xuan.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuan.Demo1" />
+      <module name="day08File-Stream-Expection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LogTest" />
-        <item itemvalue="Application.xuan.homework4.Demo1" />
-        <item itemvalue="Application.xuan.homework3.Demo1" />
+        <item itemvalue="Application.extendhomework19.Demo1" />
         <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Demo062" />
+        <item itemvalue="Application.xuan.Demo1" />
+        <item itemvalue="Application.extendhomework17.Demo1" />
+        <item itemvalue="Application.extendhomework16.Demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +250,8 @@
       <workItem from="1716166529171" duration="24001000" />
       <workItem from="1716339573480" duration="27806000" />
       <workItem from="1716425160906" duration="19728000" />
-      <workItem from="1716469060659" duration="752000" />
+      <workItem from="1716469060659" duration="5358000" />
+      <workItem from="1716513665283" duration="22051000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1715396723992</created>
@@ -290,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716387753907</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2024/05/23 XML解析、使用dom4j框架，使用Logback框架、日志输出、输出等级设置、日志配置，多线程的三种创建方式">
+      <created>1716469991448</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716469991448</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,45 +326,16 @@
     <MESSAGE value="2024/05/18自习整理了，day03的代码，做了day04的一些拓展作业，修改了day07的代码&#10;2024/05/19Stream、异常、File" />
     <MESSAGE value="2024/05/20 输入流、输出流、字符流、字节流、缓冲流" />
     <MESSAGE value="2024/05/22 缓冲流效率对比、转换流练习、对象流、Properties类、数据流、打印流、commons_io框架、字符流乱码问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024/05/22 缓冲流效率对比、转换流练习、对象流、Properties类、数据流、打印流、commons_io框架、字符流乱码问题" />
+    <MESSAGE value="2024/05/23 XML解析、使用dom4j框架，使用Logback框架、日志输出、输出等级设置、日志配置，多线程的三种创建方式" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024/05/23 XML解析、使用dom4j框架，使用Logback框架、日志输出、输出等级设置、日志配置，多线程的三种创建方式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/day01/src/xuan/homework2/MyArrays.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/day06-collection/src/xuan/demo09HashSet/Demo091.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/day07-collection-map/src/xuan/extendhomework14/Demo1.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/day08File-Stream-Expection/src/xuan/homework4/Demo1.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/day09-io/src/xuan/homework1/Demo1.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/day10-io/src/demo09对象流/Demo092.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/day10-io/src/demo11扩展练习/Demo11.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="23" />
+          <url>file://$PROJECT_DIR$/day10-io/src/extendhomework19/Demo1.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

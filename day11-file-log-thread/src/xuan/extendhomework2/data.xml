@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<order date="2017-01-01">
+    <receiver name="张三胖" address="北京海淀区五道口18号">
+        <items>
+            <item>
+                <name>华为手机</name>
+                <quantity>2</quantity>
+                <price>1999.0</price>
+            </item>
+            <item>
+                <name>金士顿U盘</name>
+                <quantity>3</quantity>
+                <price>30.0</price>
+            </item>
+        </items>
+    </receiver>
+</order>
