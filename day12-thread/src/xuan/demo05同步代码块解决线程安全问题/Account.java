@@ -1,0 +1,40 @@
+package xuan.demo05同步代码块解决线程安全问题;
+
+// 1.定义一个账户类包含卡号、余额和取钱方法，接着创建一个账户对象代表2个人的共享账户
+public class Account {
+    // 卡号
+    private String cardId; // 卡号
+    // 余额
+    private double money; // 余额
+
+    public Account() {
+    }
+
+    public Account(String cardId, double money) {
+        this.cardId = cardId;
+        this.money = money;
+    }
+
+    // 取钱方法
+    public void drawMoney(double money) {
+        // 哪个线程来取钱，获取线程名称
+        String name = Thread.currentThread().getName();
+        System.out.println(name + " this = " + this);
+
+        // 选中代码 -> ctrl + alt + t -> synchronized
+        // synchronized的锁对象, 可以是任意对象, 但是必须保证多个线程使用同一个对象作为锁
+        synchronized (this) {
+            // 判断钱是否足够
+            if (this.money >= money) {
+                // 如果钱足够就取钱
+                System.out.println(name + "准备取钱" + money);
+                // 账户减钱
+                this.money -= money;
+                System.out.println(name + "取钱成功，余额为：" + this.money);
+            } else {
+                // 如果钱不够，就不取钱
+                System.out.println(name + "取钱失败，余额不足");
+            }
+        }
+    }
+}

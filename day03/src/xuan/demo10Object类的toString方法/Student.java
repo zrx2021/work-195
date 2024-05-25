@@ -2,7 +2,7 @@ package xuan.demo10Object类的toString方法;
 
 import java.util.Objects;
 
-public class Student {
+public class Student implements Cloneable{
     private String name;
     private int age;
 
