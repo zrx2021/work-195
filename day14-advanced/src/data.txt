@@ -1,0 +1,16 @@
+=================demo06注解解析案例.Student2===================
+name：张三
+age
+sex
+height：175.5
+hobby：唱跳rap
+=================demo06注解解析案例.Student2===================
+name：张三
+age
+sex
+height：175.5
+=================demo06注解解析案例.Student2===================
+name：张三
+age
+sex
+height：175.5

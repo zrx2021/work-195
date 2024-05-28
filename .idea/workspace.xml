@@ -4,39 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f828c155-8188-434d-9dc1-27bf337af0d0" name="Changes" comment="2024/05/25 多线程、生产者-消费者模型、同步安全问题、线程通信、锁、线程池工具类、手动创建线程池">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/day13-net.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/lib/junit-4.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo01UDP入门/UDPReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo01UDP入门/UDPSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo02UDP循环收发/UDPReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo02UDP循环收发/UDPSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo03TCP入门/TCPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo03TCP入门/TCPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo04TCP循环收发/TCPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo04TCP循环收发/TCPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo05TCP多个客户端/ServerReadThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo05TCP多个客户端/TCPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo05TCP多个客户端/TCPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo06群聊/ServerReadThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo06群聊/TCPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo06群聊/TCPServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo07模拟网站服务器/Demo07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo08junit入门/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/demo08junit入门/ATMTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/homework1/UDPReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/homework1/UDPSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/homework2/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/homework3/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/homework4/WebServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/homework4/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/homework5/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/homework5/ShoppingServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/homework5/user.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/群聊/ServerReadThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/群聊/TCPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day13-net/src/xuan/群聊/TCPServer.java" afterDir="false" />
+    <list default="true" id="f828c155-8188-434d-9dc1-27bf337af0d0" name="Changes" comment="2024/05/26 UDP单次收发、多次收发，TCP单次收发、多次收发、同时多次收发、简易群聊服务器、客户端">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_10__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/day14-advanced.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/lib/junit-4.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo01反射/Demo011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo01反射/Demo012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo01反射/Demo013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo01反射/Demo014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo01反射/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo02反射做框架/DataFrameUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo02反射做框架/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo02反射做框架/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo02反射做框架/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo02反射做框架/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo03ReflectExt/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo03ReflectExt/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo03ReflectExt/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo03ReflectExt/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo04自定义注解和使用/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo04自定义注解和使用/MyAnno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo06注解解析案例/DataFrameUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo06注解解析案例/Demo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo06注解解析案例/Demo062.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo06注解解析案例/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo06注解解析案例/Save.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo06注解解析案例/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo06注解解析案例/Student2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo07注解案例2/DataFrameUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo07注解案例2/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo07注解案例2/Save.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo07注解案例2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo07注解案例2/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo07注解案例2/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo08注解特殊情况/Demo08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo08注解特殊情况/MyAnno3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo08注解特殊情况/MyAnno4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo09动态代理/Demo09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo09动态代理/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo09动态代理/WangBaoQiang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo10动态代理练习/Demo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo10动态代理练习/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/demo10动态代理练习/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/homework1/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/homework1/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/homework1/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/homework2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/homework2/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/homework3/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/homework4/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/homework5/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/homework5/MyClassAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/homework5/MyMethodAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/homework6/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/homework6/object.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day14-advanced/src/log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -52,6 +75,7 @@
         <option value="Interface" />
         <option value="Kotlin Class" />
         <option value="package-info" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -91,7 +115,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/work195/day13-网络编程/1-代码/day13-net/src/com/itheima/demo08junit入门/ATMTest.java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/work195/day14-Java高级技术/1-代码/day14-up/src/com/itheima/demo10动态代理练习/UserServiceImpl.java&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -101,17 +125,17 @@
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;F:/work195/day13-网络编程/1-代码/day13-net/src/com/itheima/demo08junit入门/ATMTest.java&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;F:/work195/day14-Java高级技术/1-代码/day14-up/src/com/itheima/demo10动态代理练习/UserServiceImpl.java&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java\work-195\day14-advanced\src" />
+      <recent name="F:\java\work-195\day14-advanced\src\demo01反射" />
+      <recent name="F:\java\work-195\day14-advanced" />
       <recent name="F:\java\work-195\day13-net\src\xuan" />
       <recent name="F:\java\work-195\day13-net\lib" />
-      <recent name="F:\java\work-195\day13-net\src\xuan\demo5TCP多个客户端" />
-      <recent name="F:\java\work-195\day13-net\src\xuan\demo4TCP循环收发" />
-      <recent name="F:\java\work-195\day13-net\src\xuan\demo2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\java\work-195\day13-net\src\xuan\demo08junit入门" />
@@ -124,18 +148,19 @@
       <recent name="xuan.homework4.Demo1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="demo06注解解析案例" />
       <recent name="xuan.群聊" />
       <recent name="xuan.demo1操作线程名称_获取当前线程" />
       <recent name="homework4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.xuan.homework5.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xuan.homework3.Client" />
-      <module name="day13-net" />
+  <component name="RunManager" selected="Application.homework6.Demo1">
+    <configuration name="homework2.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework2.Demo1" />
+      <module name="day14-advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xuan.homework3.*" />
+          <option name="PATTERN" value="homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xuan.homework2.Server" />
-      <module name="day13-net" />
+    <configuration name="homework3.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework3.Demo1" />
+      <module name="day14-advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xuan.homework3.*" />
+          <option name="PATTERN" value="homework3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xuan.homework5.ShoppingServer" />
-      <module name="day13-net" />
+    <configuration name="homework4.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework4.Demo1" />
+      <module name="day14-advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xuan.homework5.*" />
+          <option name="PATTERN" value="homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xuan.homework4.WebServer" />
-      <module name="day13-net" />
+    <configuration name="homework5.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.Demo1" />
+      <module name="day14-advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xuan.homework4.*" />
+          <option name="PATTERN" value="homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xuan.homework5.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xuan.homework5.Client" />
-      <module name="day13-net" />
+    <configuration name="homework6.Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework6.Demo1" />
+      <module name="day14-advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xuan.homework5.*" />
+          <option name="PATTERN" value="homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,19 +221,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.Server" />
-      <item itemvalue="Application.ShoppingServer" />
-      <item itemvalue="Application.WebServer" />
-      <item itemvalue="Application.xuan.homework5.Client" />
+      <item itemvalue="Application.homework2.Demo1" />
+      <item itemvalue="Application.homework3.Demo1" />
+      <item itemvalue="Application.homework4.Demo1" />
+      <item itemvalue="Application.homework5.Demo1" />
+      <item itemvalue="Application.homework6.Demo1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.xuan.homework5.Client" />
-        <item itemvalue="Application.ShoppingServer" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.WebServer" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.homework6.Demo1" />
+        <item itemvalue="Application.homework5.Demo1" />
+        <item itemvalue="Application.homework4.Demo1" />
+        <item itemvalue="Application.homework3.Demo1" />
+        <item itemvalue="Application.homework2.Demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -250,6 +275,9 @@
       <workItem from="1716645184405" duration="1138000" />
       <workItem from="1716689481789" duration="18451000" />
       <workItem from="1716724204253" duration="6736000" />
+      <workItem from="1716732755652" duration="341000" />
+      <workItem from="1716773622234" duration="20832000" />
+      <workItem from="1716886640770" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1715396723992</created>
@@ -314,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716646670371</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2024/05/26 UDP单次收发、多次收发，TCP单次收发、多次收发、同时多次收发、简易群聊服务器、客户端">
+      <created>1716732899501</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716732899501</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +376,8 @@
     <MESSAGE value="2024/05/23 XML解析、使用dom4j框架，使用Logback框架、日志输出、输出等级设置、日志配置，多线程的三种创建方式" />
     <MESSAGE value="2024/05/24 完成第10天IO流的一些拓展作业" />
     <MESSAGE value="2024/05/25 多线程、生产者-消费者模型、同步安全问题、线程通信、锁、线程池工具类、手动创建线程池" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024/05/25 多线程、生产者-消费者模型、同步安全问题、线程通信、锁、线程池工具类、手动创建线程池" />
+    <MESSAGE value="2024/05/26 UDP单次收发、多次收发，TCP单次收发、多次收发、同时多次收发、简易群聊服务器、客户端" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024/05/26 UDP单次收发、多次收发，TCP单次收发、多次收发、同时多次收发、简易群聊服务器、客户端" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
